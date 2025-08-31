@@ -1,0 +1,5 @@
+col#2 att 'persons' percentage contribution 97.0149
+col#3 att 'hhwt' percentage contribution 1.4925
+col#4 att 'gq' percentage contribution 65.6716
+col#5 att 'regionw' percentage contribution 0.0000
+col#6 att 'ownershipd' percentage contribution 88.0597

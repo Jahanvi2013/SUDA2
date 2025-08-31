@@ -1,0 +1,24 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++
+Running SUDA with debug level=0
+file:___suda-processedData_.txt
+IDs:1
+detailed output:1
+samp. fract:0.010000
+set=82367 att=5
+max_range=8 max_records=82367
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<<<<< Loading data - may take a few minutes >>>>>
+Attribute details:
+1 col#2 att 'persons' min value 1 max value 25
+2 col#3 att 'hhwt' min value 0.94 max value 121.52
+3 col#4 att 'gq' min value 10 max value 10
+4 col#5 att 'regionw' min value 34 max value 34
+5 col#6 att 'ownershipd' min value 0 max value 999
+Search for minimal sample uniques up to size 5 from 5 attributes
+***The number of records read in is 82367***
+Applying SUDA...
+:::::DIS_SUDA DETAILS::::::::::::::::::::::::::::::::::::::::::::
+Sample Unique records 36524
+Records in pairs 36764
+P(cm|um) = 0.446344
++++++++++++++++++++++++++++++++++++++++++++++++++++
