@@ -1,0 +1,24 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++
+Running SUDA with debug level=0
+file:___suda-processedData_.txt
+IDs:1
+detailed output:1
+samp. fract:0.010000
+set=3178 att=5
+max_range=9 max_records=3178
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<<<<< Loading data - may take a few minutes >>>>>
+Attribute details:
+1 col#2 att 'age' min value 0 max value 95
+2 col#3 att 'sex' min value 1 max value 2
+3 col#4 att 'marstd' min value 100 max value 400
+4 col#5 att 'edattaind' min value 0 max value 999
+5 col#6 att 'occ' min value 100 max value 9999
+Search for minimal sample uniques up to size 5 from 5 attributes
+***The number of records read in is 3178***
+Applying SUDA...
+:::::DIS_SUDA DETAILS::::::::::::::::::::::::::::::::::::::::::::
+Sample Unique records 3128
+Records in pairs 5383
+P(cm|um) = 1.693833
++++++++++++++++++++++++++++++++++++++++++++++++++++

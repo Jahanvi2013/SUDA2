@@ -1,0 +1,5 @@
+col#2 att 'age' percentage contribution 97.3163
+col#3 att 'sex' percentage contribution 26.2745
+col#4 att 'marstd' percentage contribution 45.8924
+col#5 att 'edattaind' percentage contribution 63.7642
+col#6 att 'occ' percentage contribution 68.6980
